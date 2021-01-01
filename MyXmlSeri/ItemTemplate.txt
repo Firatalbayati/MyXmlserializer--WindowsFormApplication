@@ -1,0 +1,3 @@
+﻿  <#ClassName# #Attribute#>
+    #PropertyList#
+  </#ClassName#>
